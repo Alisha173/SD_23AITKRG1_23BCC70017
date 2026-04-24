@@ -23,8 +23,6 @@ We start with a **modular monolith** and evolve into **microservices** as the sy
 
 ![System Architecture](./assets/architecture.png)
 
-
-
 ---
 
 # 3. Core Components
